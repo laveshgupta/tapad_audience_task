@@ -1,0 +1,14 @@
+{
+    "redis": {
+        "max_conn": 20,
+        "host": "localhost",
+        "port": "6379",
+        "database": 2,
+        "password": "ORQXAYLE"
+    },
+    "logging": {
+        "level": "DEBUG",
+        "log_file": "tapad_audience_task.log"
+    },
+    "audience_data_dir": "../tapad_audience_data"
+}
